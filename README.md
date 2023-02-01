@@ -1,5 +1,5 @@
 # Software Engineering Methods
-https://img.shields.io/github/actions/workflow/status/Sommie999/sem/main.yml
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Sommie999/sem/main.yml)<branch>
 
 ![workflow](https://github.com/Sommie999/sem/actions/workflows/main.yml/badge.svg)
 
