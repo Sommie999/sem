@@ -7,3 +7,6 @@
 
 * ### Release [![Releases](https://img.shields.io/github/release/Sommie999/sem/all.svg?style=flat-square)](https://github.com/Sommie999/sem/releases)
 
+Testing
+  Github main branch state: https://img.shields.io/github/checks-status/joerob25/sem-coursework-be/main
+Github develop branch state: https://img.shields.io/github/checks-status/joerob25/sem-coursework-be/develop
