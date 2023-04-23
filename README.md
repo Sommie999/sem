@@ -10,3 +10,5 @@
 Testing
   Github main branch state: https://img.shields.io/github/checks-status/joerob25/sem-coursework-be/main
 Github develop branch state: https://img.shields.io/github/checks-status/joerob25/sem-coursework-be/develop
+
+![GitHub branch checks state](https://img.shields.io/github/checks-status/Sommie99/sem/master)
