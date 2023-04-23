@@ -9,7 +9,7 @@
 
 Testing with coursework code
 
-Github main branch state: ![GitHub branch checks state](https://img.shields.io/github/checks-status/Sommie999/sem/blob/master)
+Github main branch state: ![GitHub branch checks state](https://img.shields.io/github/checks-status/Sommie999/sem/master)
 
 Github develop branch state: ![GitHub branch checks state](https://img.shields.io/github/checks-status/joerob25/sem-coursework-be/develop)
 
