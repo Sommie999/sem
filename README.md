@@ -7,6 +7,8 @@
 
 * ### Release [![Releases](https://img.shields.io/github/release/Sommie999/sem/all.svg?style=flat-square)](https://github.com/Sommie999/sem/releases)
 
+Github master branch state: ![GitHub branch checks state](https://img.shields.io/github/checks-status/Sommie999/sem/master)
+
 Testing with coursework code
 
 Github main branch state: ![GitHub branch checks state](https://img.shields.io/github/checks-status/joerob25/sem-coursework-be/main)
