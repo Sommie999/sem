@@ -21,4 +21,4 @@ code coverage: ![Codecov](https://img.shields.io/codecov/c/github/joerob25/main)
 
 License [![LICENSE](https://img.shields.io/github/license/joerob25/sem-coursework-be.svg?style=flat-square)](https://github.com/joerob25/sem-coursework-be/blob/master/LICENSE)
 
-Github main branch state: ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/joerob25/sem-coursework-be/main.yml?branch=main&style=flat-square)
+Github main branch state: ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/joerob25/sem-coursework-be/CI-Build-And-Integration-Test.yml?&style=flat-square)
